@@ -1,0 +1,8 @@
+.footer{
+    background: var(--bs-body-bg);
+    color: var(--bs-gray-700);
+}
+
+.ContainerPartnaire{
+    color: var(--bs-gray-500);
+}

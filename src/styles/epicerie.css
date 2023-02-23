@@ -1,0 +1,91 @@
+
+@media screen and (min-width: 0px) and (max-width: 575px) {
+    .epicerie-1{
+        max-width: 900px;
+    }
+    .epicerie-2{
+        background: rgba(246, 242, 242, 0.82);
+        border-radius: 15px;
+    }
+    .card-Epicerie{
+        border-color: rgba(10, 10, 10, 0);
+        border-radius: 15px;
+    }
+
+}
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .epicerie-1{
+        max-width: 900px;
+    }
+    .epicerie-2{
+        background: rgba(246, 242, 242, 0.82);
+        border-radius: 15px;
+    }
+    .card-Epicerie{
+        border-color: rgba(10, 10, 10, 0);
+        border-radius: 15px;
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width: 989px) {
+    .epicerie-1{
+        max-width: 900px;
+    }
+    .epicerie-2{
+        background: rgba(246, 242, 242, 0.82);
+        border-radius: 15px;
+    }
+    .card-Epicerie{
+        border-color: rgba(10, 10, 10, 0);
+        border-radius: 15px;
+        min-height: 318px;
+    }
+
+}
+@media screen and (min-width: 990px) and (max-width: 1200px) {
+    .epicerie-1{
+        max-width: 900px;
+    }
+    .epicerie-2{
+        background: rgba(246, 242, 242, 0.82);
+        border-radius: 15px;
+    }
+    .card-Epicerie{
+        border-color: rgba(10, 10, 10, 0);
+        border-radius: 15px;
+        min-height: 224px;
+    }
+
+}
+@media screen and (min-width: 1201px) and (max-width: 1399px) {
+    .epicerie-1{
+        max-width: 900px;
+    }
+    .epicerie-2{
+        /*background: rgba(246, 242, 242, 0.82);*/
+        background: rgba(246, 242, 242, 0.82);
+        border-radius: 15px;
+    }
+    .card-Epicerie{
+        border-color: rgba(10, 10, 10, 0);
+        border-radius: 15px;
+        min-height: 230px;
+    }
+
+}
+@media screen and (min-width: 1400px) and (max-width: 20000px) {
+    .epicerie-1{
+        max-width: 900px;
+    }
+    .epicerie-2{
+        /*background: rgba(246, 242, 242, 0.82);*/
+        background: rgba(246, 242, 242, 0.82);
+        border-radius: 15px;
+    }
+    .card-Epicerie{
+        border-color: rgba(10, 10, 10, 0);
+        border-radius: 15px;
+        min-height: 228px;
+    }
+
+}

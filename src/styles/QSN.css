@@ -1,0 +1,232 @@
+
+@media screen and (max-width: 575.98px) {
+    .imgqsn2 {
+        margin-top: 40px;
+        margin-bottom: 1px;
+    }
+
+    .card-1 {
+        background-color: rgba(239, 242, 252, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 520px;
+    }
+
+    .titleCard-1 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-2 {
+        background-color: rgba(252, 239, 248, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 580px;
+    }
+
+    .titleCard-2 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-3 {
+        background-color: rgba(239, 252, 247, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .titleCard-3 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .imgqsn2 {
+        margin-top: 40px;
+        margin-bottom: 1px;
+    }
+
+    .card-1 {
+        background-color: rgba(239, 242, 252, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 500px;
+    }
+
+    .titleCard-1 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-2 {
+        background-color: rgba(252, 239, 248, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 500px;
+    }
+
+    .titleCard-2 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-3 {
+        background-color: rgba(239, 252, 247, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .titleCard-3 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    .imgqsn2 {
+        margin-top: 40px;
+        margin-bottom: 1px;
+    }
+
+    .card-1 {
+        background-color: rgba(239, 242, 252, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 772px;
+
+    }
+
+    .titleCard-1 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-2 {
+        background-color: rgba(252, 239, 248, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 772px;
+    }
+
+    .titleCard-2 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-3 {
+        background-color: rgba(239, 252, 247, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .titleCard-3 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+}
+
+@media screen and (min-width: 992px)  and (max-width: 1297.98px)  {
+    .imgqsn2 {
+        margin-top: 40px;
+        margin-bottom: 1px;
+    }
+
+    .card-1 {
+        background-color: rgba(239, 242, 252, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 712px;
+        padding: 30px;
+    }
+
+    .titleCard-1 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-2 {
+        background-color: rgba(252, 239, 248, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 712px;
+        padding: 30px;
+    }
+
+    .titleCard-2 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-3 {
+        background-color: rgba(239, 252, 247, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        padding: 30px;
+    }
+
+    .titleCard-3 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+}
+
+@media screen and (min-width: 1298px) {
+    .imgqsn2 {
+        margin-top: 40px;
+        margin-bottom: 1px;
+    }
+
+    .card-1 {
+        background-color: rgba(239, 242, 252, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 651px;
+        padding: 30px;
+    }
+
+    .titleCard-1 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-2 {
+        background-color: rgba(252, 239, 248, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        min-height: 651px;
+        padding: 30px;
+    }
+
+    .titleCard-2 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+
+    .card-3 {
+        background-color: rgba(239, 252, 247, 0.73);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+        padding: 30px;
+    }
+
+    .titleCard-3 {
+        background: var(--bs-cyan);
+        border-radius: 15px;
+        border-color: rgba(255, 255, 255, 0);
+    }
+}

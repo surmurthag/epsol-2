@@ -1,0 +1,64 @@
+body {
+    background-color: lightgray;
+}
+
+.navbar.navbar-light.navbar-expand-md.fixed-top.bg-light {
+    background-color: rgb(255, 255, 255) !important;
+
+}
+
+.nav-text{
+
+    margin-left: 50px;
+}
+label{
+width: 350px;
+}
+.formulaire{
+    position: absolute;
+    left: 61%;
+    top: 4175px;
+    display: block;
+
+}
+.titleForm{
+    color: #70777a;
+    position: center;
+}
+input{
+    margin-bottom: 1rem;
+    border-color: rgba(232, 226, 226, 0.38);
+    /*TODO j'aime bien ce vert border-color: rgba(191, 255, 0, 0.38);*/
+    max-width: 50%;
+    width: 350px;
+    border-radius: 6px;
+}
+textarea{
+    margin-bottom: 1rem;
+    border-color: rgba(232, 226, 226, 0.38);
+    max-width: 50%;
+    width: 350px;
+    min-height: 35px;
+    height: 80px;
+    max-height: 120px;
+    border-radius: 6px;
+}
+select{
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    border-color: rgba(232, 226, 226, 0.38);
+    max-width: 50%;
+    width: 350px;
+    border-radius: 6px;
+}
+.flash{
+    padding: 20px;
+    font-weight:bold;
+    font-size: 1.4rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+}
+.flush-success{
+    background-color: #2ca02c;
+}
+

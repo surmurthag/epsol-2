@@ -1,0 +1,28 @@
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #414040;
+}
+
+
+@media screen and (max-width: 800px){
+    .test::after{
+        content: "Qui sommes nous";
+    }
+
+}
+@media screen and (min-width: 801px){
+    .test::after{
+        content: "Qui...";
+    }
+
+}
+@media screen and (min-width: 1001px){
+    .test::after{
+        content: "Qui sommes nous";
+    }
+
+}

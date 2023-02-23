@@ -1,0 +1,430 @@
+
+
+@media screen and (max-width: 575.98px) {
+    .titleHeader{
+        font-size: 26px;
+    }
+    .cta-1{
+        margin-top: 50px;
+    }
+    .container-1{
+        margin-top: -400px;
+    }
+    .ti{
+
+    }
+    hr{
+        color: #e3aa63;
+    }
+    .ti-1{
+        font:1.5em Regular !important;
+        text-transform: uppercase;
+        color: rgb(143, 97, 59);
+
+
+    }
+    .address{
+        color: rgb(28, 27, 27);
+        padding-top: 20px;
+    }
+    .day-1{
+        padding: 0px 30px 30px 0px;
+
+    }
+    .day{
+        margin-bottom: -13px;
+        color: rgb(28, 27, 27);
+        font-weight: bold !important;
+        font: 0.9em Regular;
+        list-style: none;
+
+    }
+
+    .cta-1{
+        margin-left: -0px;
+       /* border-radius: 15px;*/
+        background-color: rgba(228, 171, 99, 0.4);
+        /* background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% -150%;
+         background-size: 140%;*/
+        /*margin-top: 0px;*/
+        padding-top: 50px;
+        padding-bottom: 70px;
+        margin-top: 70px;
+
+
+    }
+    .cta-2{
+
+        border-radius: 15px;
+        padding: 8px;
+        /* background-color: #faf2e7;*/
+    }
+    .cta-3{
+        /*background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% 49%;*/
+        /*background-size: 165.5%;*/
+        margin: -20px;
+        border-radius: 15px;
+        padding: 35px;
+        margin-top: -2px;
+        margin-left: 33px;
+        border: 0.2rem solid rgba(255, 255, 255, 0.93);
+        outline: 0.25rem solid #ffffff;
+
+        box-shadow: 0 0 0 0.5rem rgba(227, 170, 99, 0);
+        outline-offset: .25rem;
+        height: 750px;
+        width: 400px;
+        background-color: #faf2e7;
+
+    }
+    .workImg{
+        animation: SlidImg 5s;
+        transform: translateX(-70px) translateY(-200px) scale(0.40) ;
+    }@keyframes SlidImg {
+         from {
+             transform: translateX(-70px) translateY(-200px) scale(0.10);
+         }
+         to{
+             transform: translateX(-70px) translateY(-200px) scale(0.40);
+         }
+     }
+
+}
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+    .ti{
+
+    }
+    hr{
+        color: #e3aa63;
+    }
+    .ti-1{
+        font:1.5em Regular !important;
+        text-transform: uppercase;
+        color: rgb(143, 97, 59);
+
+
+    }
+    .address{
+        color: rgb(28, 27, 27);
+        padding-top: 20px;
+    }
+    .day-1{
+        padding: 0px 30px 30px 0px;
+
+    }
+    .day{
+    margin-bottom: -13px;
+        color: rgb(28, 27, 27);
+        font-weight: bold !important;
+        font: 0.9em Regular;
+        list-style: none;
+
+    }
+
+    .cta-1{
+        margin-left: -60px;
+        /*border-radius: 15px;*/
+        background-color: rgba(228, 171, 99, 0.4);
+       /* background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% -150%;
+        background-size: 140%;*/
+        /*margin-top: 0px;*/
+        padding-top: 50px;
+        padding-bottom: 70px;
+        margin-top: 70px;
+
+
+    }
+    .cta-2{
+
+        border-radius: 15px;
+        padding: 8px;
+       /* background-color: #faf2e7;*/
+    }
+    .cta-3{
+        /*background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% 49%;*/
+        background-size: 165.5%;
+        margin: -20px;
+        border-radius: 15px;
+        padding: 35px;
+        margin-top: -2px;
+        margin-left: 15px;
+        border: 0.2rem solid rgba(255, 255, 255, 0.93);
+        outline: 0.25rem solid #ffffff;
+
+        box-shadow: 0 0 0 0.5rem rgba(227, 170, 99, 0);
+        outline-offset: .25rem;
+        height: 750px;
+        width: 560px;
+        background-color: #faf2e7;
+
+    }
+    .workImg{
+
+        animation: SlidImg 5s;
+        transform: translateX(-200px) translateY(-180px) scale(0.40) ;
+    }@keyframes SlidImg {
+         from {
+             transform: translateX(0px) translateY(0px) scale(0.10);
+         }
+         to{
+             transform: translateX(-200px) translateY(-180px) scale(0.40);
+         }
+     }
+
+}
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+    .ti{
+
+    }
+    hr{
+        color: #e3aa63;
+    }
+    .ti-1{
+        font:1.5em Regular !important;
+        text-transform: uppercase;
+        color: rgb(143, 97, 59);
+
+
+    }
+    .address{
+        color: rgb(28, 27, 27);
+        padding-top: 20px;
+    }
+    .day-1{
+        padding: 0px 30px 30px 0px;
+
+    }
+    .day{
+        margin-bottom: -13px;
+        color: rgb(28, 27, 27);
+        font-weight: bold !important;
+        font: 0.9em Regular;
+        list-style: none;
+
+    }
+
+    .cta-1{
+        margin-left: -60px;
+       /* border-radius: 15px;*/
+        background-color: rgba(228, 171, 99, 0.4);
+        /* background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% -150%;
+         background-size: 140%;*/
+        /*margin-top: 0px;*/
+        padding-top: 50px;
+        padding-bottom: 70px;
+        margin-top: 70px;
+
+
+    }
+    .cta-2{
+
+        border-radius: 15px;
+        padding: 8px;
+        /* background-color: #faf2e7;*/
+    }
+    .cta-3{
+        /*background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% 49%;*/
+        background-size: 165.5%;
+        margin: -20px;
+        border-radius: 15px;
+        padding: 35px 135px;
+        margin-top: -2px;
+        margin-left: 15px;
+        border: 0.2rem solid rgba(255, 255, 255, 0.93);
+        outline: 0.25rem solid #ffffff;
+
+        box-shadow: 0 0 0 0.5rem rgba(227, 170, 99, 0);
+        outline-offset: .25rem;
+        height: 750px;
+        width: 750px;
+        background-color: #faf2e7;
+
+    }
+    .container-1{
+        margin-top: -260px;
+
+    }
+    .workImg{
+
+        animation: SlidImg 5s;
+        transform: translateX(-250px) translateY(-100px) scale(0.60) ;
+    }@keyframes SlidImg {
+         from {
+             transform: translateX(0px) translateY(0px) scale(0.10);
+         }
+         to{
+             transform: translateX(-250px) translateY(-100px) scale(0.60);
+         }
+     }
+
+}
+@media screen and (min-width: 992px) and (max-width: 1297.98px) {
+    .ti{
+
+    }
+    hr{
+        color: #e3aa63;
+    }
+    .ti-1{
+        font:1.5em Regular !important;
+        text-transform: uppercase;
+        color: rgb(143, 97, 59);
+
+
+    }
+    .address{
+        color: rgb(28, 27, 27);
+        padding-top: 20px;
+    }
+    .day-1{
+        padding: 0px 30px 30px 0px;
+
+    }
+    .day{
+        margin-bottom: -13px;
+        color: rgb(28, 27, 27);
+        font-weight: bold !important;
+        font: 0.9em Regular;
+        list-style: none;
+
+    }
+
+    .cta-1{
+        margin-left: -60px;
+        /*border-radius: 15px;*/
+        background-color: rgba(228, 171, 99, 0.4);
+        /* background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% -150%;
+         background-size: 140%;*/
+        /*margin-top: 0px;*/
+        padding-top: 50px;
+        padding-bottom: 70px;
+        margin-top: 70px;
+
+
+    }
+    .cta-2{
+
+        border-radius: 15px;
+        padding: 8px;
+        /* background-color: #faf2e7;*/
+    }
+    .cta-3{
+        /*background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% 49%;*/
+        background-size: 165.5%;
+        margin: -20px;
+        border-radius: 15px;
+        padding: 35px 155px;
+        margin-top: -2px;
+        margin-left: 15px;
+        border: 0.2rem solid rgba(255, 255, 255, 0.93);
+        outline: 0.25rem solid #ffffff;
+
+        box-shadow: 0 0 0 0.5rem rgba(227, 170, 99, 0);
+        outline-offset: .25rem;
+        height: 750px;
+        width: 960px;
+        background-color: #faf2e7;
+
+    }
+    .container-1{
+        margin-top: -70px;
+
+    }
+    .workImg{
+
+        animation: SlidImg 5s;
+        transform: translateX(-180px) translateY(0px) scale(0.80) ;
+    }@keyframes SlidImg {
+         from {
+             transform: translateX(0px) translateY(0px) scale(0.10);
+         }
+         to{
+             transform: translateX(-180px) translateY(0px) scale(0.80);
+         }
+     }
+
+}
+@media screen and (min-width: 1298px) {
+    .ti{
+
+    }
+    hr{
+        color: #e3aa63;
+    }
+    .ti-1{
+        font:1.5em Regular !important;
+        text-transform: uppercase;
+        color: rgb(143, 97, 59);
+
+
+    }
+    .address{
+        color: rgb(28, 27, 27);
+        padding-top: 20px;
+    }
+    .day-1{
+        padding: 0px 30px 30px 0px;
+
+    }
+    .day{
+        margin-bottom: -13px;
+        color: rgb(28, 27, 27);
+        font-weight: bold !important;
+        font: 0.9em Regular;
+        list-style: none;
+
+    }
+
+    .cta-1{
+        margin-left: -60px;
+       /* border-radius: 15px;*/
+        background-color: rgba(228, 171, 99, 0.4);
+        /* background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% -150%;
+         background-size: 140%;*/
+        /*margin-top: 0px;*/
+        padding-top: 50px;
+        padding-bottom: 70px;
+        margin-top: 70px;
+
+
+    }
+    .cta-2{
+
+        border-radius: 15px;
+        padding: 8px;
+        /* background-color: #faf2e7;*/
+    }
+    .cta-3{
+        /*background:url('http://neutrino.yn.lu/maquette1/assets/img/ArdoiseW.png') no-repeat 50% 49%;*/
+        background-size: 165.5%;
+        margin: -20px;
+        border-radius: 15px;
+        padding: 35px 180px;
+        margin-top: -2px;
+        margin-left: 15px;
+        border: 0.2rem solid rgba(255, 255, 255, 0.93);
+        outline: 0.25rem solid #ffffff;
+
+        box-shadow: 0 0 0 0.5rem rgba(227, 170, 99, 0);
+        outline-offset: .25rem;
+        height: 750px;
+        width: 960px;
+        background-color: #faf2e7;
+
+    }
+    .container-1{
+        margin-top: -90px;
+    }
+    .workImg{
+        padding-top: 500px;
+        animation: SlidImg 5s;
+        transform: translateX(-50px) translateY(0px) scale(0.80) ;
+    }@keyframes SlidImg {
+         from {
+             transform: translateX(0px) translateY(0px) scale(0.10);
+         }
+         to{
+             transform: translateX(-50px) translateY(0px) scale(0.80);
+         }
+     }
+}

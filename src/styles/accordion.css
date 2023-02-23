@@ -1,0 +1,96 @@
+.accordion_item.active .button {
+    margin-top:2%;
+    margin-left: -4.5px;
+    background-color: #eff1f4;
+    border: none;
+}
+.accordion_item{
+    padding-bottom: 25px;
+
+
+}
+.answer_wrapper
+{
+    height: 0;
+    overflow: hidden;
+
+    transition: height ease 0.9s;
+}
+.docButton{
+    position: relative;
+    border: none;
+    background-color: #eff1f4;
+    margin-top: 2%;
+    margin-bottom: 1px;
+    font:  1.2em "Fira Sans", serif;
+    color: rgb(154, 135, 135);
+}
+.GooMap{
+border-radius: 6px;
+background-color: rgba(232, 226, 226, 0.38);
+    height: 350px;
+    width: 400px;
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: -50%;
+}
+.BodyMail{
+    border-radius: 6px;
+    margin-left: 60%;
+    margin-top: -355px;
+    margin-bottom: 30px;
+    height: 350px;
+    width: 400px;
+    background-color: rgba(232, 226, 226, 0.38);
+}
+.docBox-1{
+    margin: auto;
+}
+.docBox
+{
+    text-align: center;
+    margin: 2% 10%;
+    background-color: #eff1f4;
+    border-radius: 6px;
+}
+.docBox-1
+{
+    margin-bottom: 35px;
+    text-align: left;
+    height: 250px;
+    padding: 3% 10%;
+}
+.docBox-2{
+    font:  1.1em "Fira Sans", serif;
+    background-color: #ffffff;
+    padding:1% 10%;
+
+    border: 1px solid rgb(224, 221, 221);
+    margin: 3px 0;
+    border-radius: 6px 0 0 6px;
+    /*border-right: none;*/
+}
+.docBox-3{
+    font:  1.1em "Fira Sans", serif;
+    margin: 3px 0;
+    border: 1px solid rgb(224, 221, 221);
+    background-color: #ffffff;
+    padding:1% 10%;
+    border-radius: 0 6px 6px 0;
+    border-left: none;
+
+}
+.hrdoc{
+    margin: 1px;
+    color: rgb(224, 221, 221);
+}.docBox-2:hover .hrdoc {
+
+     transition: 10s;
+     color: rgb(154, 135, 135);
+
+}
+.docBox-3:hover .hrdoc {
+    transition: 10s;
+    color: rgb(154, 135, 135);
+
+}

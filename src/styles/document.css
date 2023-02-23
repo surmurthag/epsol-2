@@ -1,0 +1,14 @@
+.docBox{
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.88);
+
+}
+.docBox-1{
+    border: 1px solid rgba(0, 0, 0, 0.88);
+    border-radius: 6px;
+}
+.docBox-2{
+    border: 2px inset rgba(0,0,0,0.88);
+
+}
