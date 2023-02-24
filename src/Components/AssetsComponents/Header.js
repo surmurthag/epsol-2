@@ -11,8 +11,8 @@ const Header = () => {
         <div id={'Header'} className={'bodyheader '}>
             <div className=" pt-5">
                 <div className="container pt-4 pt-xl-5 ">
-                    <div className="row pt-5">
-                        <div className="col-md-8 col-xl-6 text-center text-md-start mx-auto">
+                    <div className="row ">
+                        <div className=" col-xl-6 text-center text-md-start mx-auto">
                             <div className="text-center">
                                 <p className="fw-bold mb-2">EpiSol est une épicerie social et solidaire.</p>
                                 <h2 className="fw-bold">elle donne accés à des aliments à prix abordable</h2>

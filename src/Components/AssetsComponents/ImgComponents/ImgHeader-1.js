@@ -1,5 +1,5 @@
 import React from "react";
-import '../../../bootstrap.min.css'
+
 import '../../../bold-and-bright';
 import '../../../styles/header.css';
 
